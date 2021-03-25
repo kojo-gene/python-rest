@@ -18,7 +18,7 @@ Markdown==2.6.11
 MarkupSafe==1.0
 python-dotenv==0.9.1
 pytz==2018.5
-PyYAML==3.13
+PyYAML==5.4
 requests==2.18.4
 six==1.11.0
 texttable==0.9.1
